@@ -1,0 +1,5 @@
+git add 1.txt
+git commit -m "Created 1.txt"
+git status
+git remote add origin https://github.com/Nevindu7246/Version-Control.git
+git push origin master
